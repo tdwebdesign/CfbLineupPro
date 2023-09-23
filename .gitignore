@@ -1,0 +1,19 @@
+# Python
+*.pyc
+*.pyo
+*.egg-info/
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Django
+*.log
+*.pot
+*.db
+db.sqlite3
+migrations/
+
+# IDEs
+*.idea/
+*.vscode/
